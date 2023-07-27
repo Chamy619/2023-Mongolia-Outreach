@@ -1,0 +1,23 @@
+{
+  "name": "2023-mongolia-outreach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamy619/2023-Mongolia-Outreach.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamy619/2023-Mongolia-Outreach/issues"
+  },
+  "homepage": "https://github.com/Chamy619/2023-Mongolia-Outreach#readme",
+  "dependencies": {
+    "viewerjs": "^1.11.4"
+  }
+}
