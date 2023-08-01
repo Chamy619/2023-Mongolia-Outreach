@@ -134,10 +134,11 @@
 }
 
 .brand-logo {
-  background-image: url('../assets/img/everyone.jpeg');
-  background-size: cover;
-  width: 100vw;
-  height: 100vh;
+  background-image: url('https://d6cjuwf9jj9iv.cloudfront.net/milkyway.jpeg');
+  background-size: 100% 30rem;
+  background-position: center;
+  /* width: 100vw;
+  height: 100vh; */
 }
 
 .text-navy {
