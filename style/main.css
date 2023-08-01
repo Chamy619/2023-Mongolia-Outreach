@@ -58,6 +58,24 @@
   }
 }
 
+@media (max-width: 767px) {
+  #title-bible {
+    font-size: 1.25rem;
+  }
+
+  #title-bible small {
+    display: none;
+  }
+
+  #team {
+    font-size: 0.825rem;
+  }
+
+  #team small {
+    font-size: 0.5rem;
+  }
+}
+
 .footer {
   font-size: 0.875rem;
 }
@@ -134,11 +152,8 @@
 }
 
 .brand-logo {
-  background-image: url('https://d6cjuwf9jj9iv.cloudfront.net/milkyway.jpeg');
   background-size: 100% 30rem;
   background-position: center;
-  /* width: 100vw;
-  height: 100vh; */
 }
 
 .text-navy {
